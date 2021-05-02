@@ -1,6 +1,6 @@
 ---
 name: J.J.
-username: jcjtavier
+username: jctjavier
 bio: "Hey, I'm a test automation and quality assurance professional. Whatever that means."
 site: https://jctjavier.github.io
 avatar: myself.png
